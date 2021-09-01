@@ -1,0 +1,15 @@
+C:\Users\Reznikov\source\repos\task\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\Reznikov\source\repos\task\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\Reznikov\source\repos\task\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Reznikov\source\repos\task\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\Reznikov\source\repos\task\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\Reznikov\source\repos\task\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\Reznikov\source\repos\task\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
